@@ -15,3 +15,17 @@ dataPath: "storage"
 # Set to false to disable encryption support. Encrypted data will be
 # stored under dataPath.
 encryption: true
+
+# FusionBrain
+fusionbrainApiKey: ''
+fusionbrainSecretKey: ''
+fusionbrainCheckRetries: 30
+
+# MongoDB URI for the bot to use.
+dbUri: "mongodb://mongo:27017"
+
+# The name of the database to use.
+dbName: "fusionbrain-bot"
+
+# The name of the collection to use.
+dbCollection: "fusionbrainTasks"
