@@ -1,3 +1,12 @@
+# matrix-fusionbrain-bot
+
+A bot for using [Fusionbrain](https://fusionbrain.ai/) with matrix bot.
+
+```
+!imagine [prompt]    - Imagine something.
+!imagine             - This menu
+```
+
 # `matrix-bot-sdk` Bot Templates
 
 A template for creating bots with [matrix-bot-sdk](https://www.npmjs.com/package/matrix-bot-sdk).
