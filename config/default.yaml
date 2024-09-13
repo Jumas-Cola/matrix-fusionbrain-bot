@@ -19,7 +19,6 @@ encryption: true
 # FusionBrain
 fusionbrainApiKey: ''
 fusionbrainSecretKey: ''
-fusionbrainCheckRetries: 30
 
 # MongoDB URI for the bot to use.
 dbUri: "mongodb://mongo:27017"
